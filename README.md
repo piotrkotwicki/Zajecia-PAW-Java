@@ -1,2 +1,2 @@
-# Projekt-PAW-Java
-Projekt zaliczeniowy z Javy
+# Zajecia-PAW-Java
+Projekt z zajęć z Javy
